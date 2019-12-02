@@ -18,4 +18,20 @@ h3 {
 
 .navigation {
     display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 0;
+    padding: 20px;
+    width: 100%;
+}
+
+.navigation li {
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 40px;
+}
+
+.navigation li.about {
+    display:inline;
+    margin-left: 0;
 }
