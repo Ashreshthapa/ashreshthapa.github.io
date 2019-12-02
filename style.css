@@ -26,12 +26,13 @@ h3 {
 }
 
 .navigation li {
-    display: inline;
+    display: inline-block;
     list-style-type: none;
     margin-left: 40px;
 }
 
 .navigation li.about {
     display:block;
-    margin-left: 40px;
+    margin-right:auto;
+    margin-left: 0;
 }
