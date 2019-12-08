@@ -15,7 +15,9 @@ p {
 h3 {
     color: darkgray;
 }
-
+h2 {
+    color: black;
+}
 .navigation {
     display: flex;
     flex-direction: row;
