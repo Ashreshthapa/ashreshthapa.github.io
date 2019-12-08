@@ -8,15 +8,15 @@ body {
 h1 {
     color: brown;
 }
+h2 {
+    color: black;
+}
 p {
     font: initial;
     color: darkgoldenrod;
 }
 h3 {
     color: darkgray;
-}
-h2 {
-    color: black;
 }
 h4 {
     color: ghostwhite;
