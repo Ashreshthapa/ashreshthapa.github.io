@@ -1,6 +1,5 @@
 body {
     background-color: bisque;
-    background-image: radial-gradient('smiley.gif') no-repeat top left/5px 5px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 40px;
     max-width: 900px;
