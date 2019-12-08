@@ -1,7 +1,7 @@
 body {
     background-color: bisque;
-    background-image: linear-gradient(100);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;
+    background: red url('smiley.gif') no-repeat top left/5px 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 40px;
     max-width: 900px;
     margin: 0 auto:
