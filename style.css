@@ -18,6 +18,9 @@ h3 {
 h2 {
     color: black;
 }
+h4 {
+    color: ghostwhite;
+}
 .navigation {
     display: flex;
     flex-direction: row;
