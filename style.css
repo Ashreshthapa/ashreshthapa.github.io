@@ -2,7 +2,7 @@ body {
     background-color: bisque;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 40px;
-    max-width: auto;
+    max-width: 0;
     margin: 0 auto;
 }
 body.index {
