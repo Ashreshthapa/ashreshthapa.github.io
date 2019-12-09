@@ -1,6 +1,6 @@
 body {
     background-color: bisque;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: cursive;
     font-size: 40px;
     max-width: auto;
     margin: auto;
@@ -28,8 +28,13 @@ h3 {
     color: darkgray;
 }
 h4 {
+    color: snow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h5 {
     color: ghostwhite;
 }
+
 .navigation {
     box-sizing: border-box;
     display: flex;
@@ -44,7 +49,14 @@ h4 {
     display: inline-block;
     list-style-type: none;
     margin-left: 40px;
+}
+
+.navigation li a {
     color: black;
+}
+
+.navigation li a:hover {
+    color: white;
 }
 
 .navigation li.about {
