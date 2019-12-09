@@ -8,9 +8,9 @@ body {
 body.index{
     background-image: url('26312409790_f01be70cb2_o[1].jpg');
     min-height: 100vh;
-    background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
     margin: 0 ;
     color: lightslategray;
 }
