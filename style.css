@@ -2,8 +2,8 @@ body {
     background-color: bisque;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 40px;
-    max-width: 0;
-    margin: 0 auto;
+    max-width: auto;
+    margin: 0;
 }
 body.index {
     background-image: url("26312409790_f01be70cb2_o[1].jpg");
