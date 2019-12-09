@@ -1,13 +1,16 @@
 body {
     background-color: bisque;
-    background-image: radial-gradient("26312409790_f01be70cb2_o[1].jpg");
-    background-repeat: inherit;
-    background-position: inherit;
-    background-attachment: scroll;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 40px;
     max-width: 900px;
     margin: 0 auto:
+}
+body.index {
+    background-image: url("26312409790_f01be70cb2_o[1].jpg");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 h1 {
     color: skyblue;;
