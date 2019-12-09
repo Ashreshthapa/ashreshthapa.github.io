@@ -31,6 +31,7 @@ h4 {
     color: ghostwhite;
 }
 .navigation {
+    box-sizing: border-box;
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
@@ -43,10 +44,16 @@ h4 {
     display: inline-block;
     list-style-type: none;
     margin-left: 40px;
+    color: black;
 }
 
 .navigation li.about {
     display:block;
     margin-right:auto;
     margin-left: 0;
+}
+
+.left {
+    float: left;
+    margin: 0 20px;
 }
