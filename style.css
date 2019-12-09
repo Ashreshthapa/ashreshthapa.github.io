@@ -11,6 +11,8 @@ body.index{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    margin: 0 ;
+    color: lightslategray;
 }
 h1 {
     color: skyblue;;
